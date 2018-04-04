@@ -1,2 +1,2 @@
 # hello-world
-Prints hellow-world to screen
+Prints hello-world to screen
